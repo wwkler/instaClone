@@ -1,16 +1,3 @@
 # instaclone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+유튜브 채널 "개발하는남자"의 인스타 클론 영상을 보고 똑같이 따라해서 나온 작품 입니다.
+강의 영상 : https://www.youtube.com/watch?v=hM2whwf2u14&list=PLgRxBCVPaZ_1iBe1v3-ZSSzHGdQo7AZPq
